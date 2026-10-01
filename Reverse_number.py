@@ -1,4 +1,4 @@
-n = 12345
+n = 121
 num = n
 count = 0
 
@@ -7,5 +7,6 @@ while num > 0:
     print(digit)
 
     num = num // 10
+
 
     
